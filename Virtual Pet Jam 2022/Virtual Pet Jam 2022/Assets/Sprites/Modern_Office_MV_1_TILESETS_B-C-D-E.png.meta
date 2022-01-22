@@ -1,0 +1,5732 @@
+fileFormatVersion: 2
+guid: 7616e640e4d0361449b5a500fc248682
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7258605043031542597
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_0
+  - first:
+      213: -4953913577161335590
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_1
+  - first:
+      213: 6834799028909680828
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_2
+  - first:
+      213: 6512180845812264317
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_3
+  - first:
+      213: -2986012851375862680
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_4
+  - first:
+      213: -8922267395162921362
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_5
+  - first:
+      213: 2965904825986983609
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_6
+  - first:
+      213: 6548321524747536598
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_7
+  - first:
+      213: 3641139272843568892
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_8
+  - first:
+      213: 4445894655658642769
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_9
+  - first:
+      213: -1440913523416352244
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_10
+  - first:
+      213: 4736856896539768933
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_11
+  - first:
+      213: 6367893333407984020
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_12
+  - first:
+      213: -9201756140705172753
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_13
+  - first:
+      213: 1326312999856760039
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_14
+  - first:
+      213: 2137406650054546550
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_15
+  - first:
+      213: -8647015519833531864
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_16
+  - first:
+      213: 4624982678354831043
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_17
+  - first:
+      213: 1367735324819166156
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_18
+  - first:
+      213: -8403158494516357172
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_19
+  - first:
+      213: 6333231623245310469
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_20
+  - first:
+      213: -7021588741825624326
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_21
+  - first:
+      213: 8293298496160878353
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_22
+  - first:
+      213: -7579742009220608364
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_23
+  - first:
+      213: -2432123535785000061
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_24
+  - first:
+      213: 8214435051959305676
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_25
+  - first:
+      213: -3597414518099678264
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_26
+  - first:
+      213: -3379413637620913082
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_27
+  - first:
+      213: 1843490189982846936
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_28
+  - first:
+      213: -3144761710926586123
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_29
+  - first:
+      213: -509995223800305016
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_30
+  - first:
+      213: 9090559578445987985
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_31
+  - first:
+      213: 6658014122327006045
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_32
+  - first:
+      213: 118896285612181352
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_33
+  - first:
+      213: -7023363022435423950
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_34
+  - first:
+      213: 6969879487707343114
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_35
+  - first:
+      213: -5894246085603020979
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_36
+  - first:
+      213: -4613752092210517135
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_37
+  - first:
+      213: 3851130460601630392
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_38
+  - first:
+      213: 7891469732225259957
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_39
+  - first:
+      213: 3342180658152698783
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_40
+  - first:
+      213: -1461618782389873494
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_41
+  - first:
+      213: -2253622688068191133
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_42
+  - first:
+      213: -7310132253542026541
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_43
+  - first:
+      213: -7892301515046189181
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_44
+  - first:
+      213: -8579727738896977272
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_45
+  - first:
+      213: 4631089998943723351
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_46
+  - first:
+      213: 1962099057377513300
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_47
+  - first:
+      213: -1523814088016516295
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_48
+  - first:
+      213: -918928010678924113
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_49
+  - first:
+      213: 5387328074648598181
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_50
+  - first:
+      213: 8657784531989445202
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_51
+  - first:
+      213: 1753224728264623487
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_52
+  - first:
+      213: -6174065004304038298
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_53
+  - first:
+      213: 6041245602471706998
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_54
+  - first:
+      213: -5238131115939865432
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_55
+  - first:
+      213: -4914302728053261799
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_56
+  - first:
+      213: -4259867617414270734
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_57
+  - first:
+      213: -6660038232718211579
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_58
+  - first:
+      213: 2768633724485871657
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_59
+  - first:
+      213: -6701658246037806875
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_60
+  - first:
+      213: -4209912587835915507
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_61
+  - first:
+      213: -8908643964547364045
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_62
+  - first:
+      213: -3458616065710055623
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_63
+  - first:
+      213: 1995942492570101127
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_64
+  - first:
+      213: 7362541248220626015
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_65
+  - first:
+      213: -8732544310547669026
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_66
+  - first:
+      213: -7818794674665412987
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_67
+  - first:
+      213: -4410445829872218294
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_68
+  - first:
+      213: -1794632591176370001
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_69
+  - first:
+      213: -4605699151070682304
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_70
+  - first:
+      213: -8533427959966327702
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_71
+  - first:
+      213: 3749757759527480122
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_72
+  - first:
+      213: 210089477242951531
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_73
+  - first:
+      213: -8753173225097864185
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_74
+  - first:
+      213: -1758793078413393337
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_75
+  - first:
+      213: -5541082471360814438
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_76
+  - first:
+      213: -8053333488363370120
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_77
+  - first:
+      213: -2384029704344916324
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_78
+  - first:
+      213: -8861502453800620469
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_79
+  - first:
+      213: -7624666398690927416
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_80
+  - first:
+      213: 8880198404012506430
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_81
+  - first:
+      213: -6476201814501084957
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_82
+  - first:
+      213: -5168894677106309910
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_83
+  - first:
+      213: 6044949210001606908
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_84
+  - first:
+      213: 438801713825710493
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_85
+  - first:
+      213: 3886609417987289950
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_86
+  - first:
+      213: 4349202131587342137
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_87
+  - first:
+      213: 1025337855073380045
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_88
+  - first:
+      213: 7578397582366739108
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_89
+  - first:
+      213: -9047992254333138073
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_90
+  - first:
+      213: -2963432148938780696
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_91
+  - first:
+      213: -4294386430986649810
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_92
+  - first:
+      213: 6906123767088938928
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_93
+  - first:
+      213: 3007586456793802457
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_94
+  - first:
+      213: -6692435315803099460
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_95
+  - first:
+      213: 4053607008177519938
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_96
+  - first:
+      213: 7364920698742147666
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_97
+  - first:
+      213: 5656364489809169722
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_98
+  - first:
+      213: -5260233506514485889
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_99
+  - first:
+      213: -3666963126521528640
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_100
+  - first:
+      213: -8156556284848573018
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_101
+  - first:
+      213: -4146904546973608513
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_102
+  - first:
+      213: -7511800777260483831
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_103
+  - first:
+      213: -686656989374401033
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_104
+  - first:
+      213: -1828299117757092204
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_105
+  - first:
+      213: 5299809472391385682
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_106
+  - first:
+      213: -5871503006136411133
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_107
+  - first:
+      213: -3175537222562112782
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_108
+  - first:
+      213: -6943947418157288852
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_109
+  - first:
+      213: 8183674448948902103
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_110
+  - first:
+      213: 3190630936934549800
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_111
+  - first:
+      213: -800807465298839638
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_112
+  - first:
+      213: 1250832829088972656
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_113
+  - first:
+      213: 6316817094546172419
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_114
+  - first:
+      213: -8877861504160667550
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_115
+  - first:
+      213: -3408628840734004674
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_116
+  - first:
+      213: 1435279295573894161
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_117
+  - first:
+      213: 5906297733377737236
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_118
+  - first:
+      213: -8933406358655123260
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_119
+  - first:
+      213: -735315497654575930
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_120
+  - first:
+      213: 4218267659174697935
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_121
+  - first:
+      213: 6659200946030334209
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_122
+  - first:
+      213: 4782230137753983795
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_123
+  - first:
+      213: 2267601486266641755
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_124
+  - first:
+      213: 6391828101291363503
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_125
+  - first:
+      213: -3171491052609421246
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_126
+  - first:
+      213: 2453294443890751805
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_127
+  - first:
+      213: 8761627698892905432
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_128
+  - first:
+      213: 4649460192149766113
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_129
+  - first:
+      213: 2278331740837769660
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_130
+  - first:
+      213: -2001894496724965059
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_131
+  - first:
+      213: -1458093457871583200
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_132
+  - first:
+      213: 3159475861538564535
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_133
+  - first:
+      213: -4225393586091218615
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_134
+  - first:
+      213: -6199001409004316049
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_135
+  - first:
+      213: -4879404528203235611
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_136
+  - first:
+      213: 6246915080959414621
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_137
+  - first:
+      213: -4211194683377805816
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_138
+  - first:
+      213: -7551619920869351095
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_139
+  - first:
+      213: -5114920524617515622
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_140
+  - first:
+      213: 4550007709411500191
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_141
+  - first:
+      213: 2133623548611193463
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_142
+  - first:
+      213: -4207356967728809498
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_143
+  - first:
+      213: -5422102432862017100
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_144
+  - first:
+      213: -3853065335708924160
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_145
+  - first:
+      213: -1695758791594645395
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_146
+  - first:
+      213: 2948258717659796759
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_147
+  - first:
+      213: 9073786607404392972
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_148
+  - first:
+      213: -6472378214009062961
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_149
+  - first:
+      213: -1783750152503014860
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_150
+  - first:
+      213: -2141818182265134185
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_151
+  - first:
+      213: -2567335030575139487
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_152
+  - first:
+      213: 105491765029710944
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_153
+  - first:
+      213: -9127646776006030020
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_154
+  - first:
+      213: 5718127954874787714
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_155
+  - first:
+      213: -7661036684253650307
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_156
+  - first:
+      213: 6867266913799637436
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_157
+  - first:
+      213: 3603422811271075989
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_158
+  - first:
+      213: 7328157016546968174
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_159
+  - first:
+      213: 4572799078645476143
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_160
+  - first:
+      213: 1843067457251892564
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_161
+  - first:
+      213: 2654186962228180581
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_162
+  - first:
+      213: -5982503872897575483
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_163
+  - first:
+      213: 7129190566144364523
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_164
+  - first:
+      213: -6375436027073624083
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_165
+  - first:
+      213: 5408474776468482100
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_166
+  - first:
+      213: -4644071581178063144
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_167
+  - first:
+      213: -1063784896296722176
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_168
+  - first:
+      213: -8288296342587951595
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_169
+  - first:
+      213: 23309900338220682
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_170
+  - first:
+      213: 4076970123791292850
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_171
+  - first:
+      213: 3783946503794608972
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_172
+  - first:
+      213: -4071991929986854539
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_173
+  - first:
+      213: -1610851344133497674
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_174
+  - first:
+      213: -6491393798002879436
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_175
+  - first:
+      213: -9066553451163256963
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_176
+  - first:
+      213: 9175278955396453864
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_177
+  - first:
+      213: 468724174410881184
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_178
+  - first:
+      213: 7355000283544328731
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_179
+  - first:
+      213: -8896939226533016691
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_180
+  - first:
+      213: -1251237357331268641
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_181
+  - first:
+      213: 8980451087231525379
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_182
+  - first:
+      213: 8702337644230765224
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_183
+  - first:
+      213: -1172448474497384812
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_184
+  - first:
+      213: 637154601001936107
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_185
+  - first:
+      213: 8447388366740746195
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_186
+  - first:
+      213: 3590270928025112946
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_187
+  - first:
+      213: -2821423811006306601
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_188
+  - first:
+      213: -2331630084271559723
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_189
+  - first:
+      213: 5747116520825873419
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_190
+  - first:
+      213: -4463234964600830459
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_191
+  - first:
+      213: -6634859609546934453
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_192
+  - first:
+      213: -1324755813887908522
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_193
+  - first:
+      213: -7083003859123164323
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_194
+  - first:
+      213: -2749849155488331584
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_195
+  - first:
+      213: -8488301459327915640
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_196
+  - first:
+      213: 6860629429738920969
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_197
+  - first:
+      213: 7883629973106630890
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_198
+  - first:
+      213: 6842038856386308740
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_199
+  - first:
+      213: 4105100289666786964
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_200
+  - first:
+      213: 3286576688985723861
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_201
+  - first:
+      213: 7724511437531764161
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_202
+  - first:
+      213: 4483172520306947729
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_203
+  - first:
+      213: -937443101241507523
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_204
+  - first:
+      213: 7853287084349841397
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_205
+  - first:
+      213: -270533767471942466
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_206
+  - first:
+      213: 97326815451514517
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_207
+  - first:
+      213: -3466492320644566099
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_208
+  - first:
+      213: 5500818375627570040
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_209
+  - first:
+      213: -7548549272221170013
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_210
+  - first:
+      213: 3082713249963559727
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_211
+  - first:
+      213: 6451493889550931246
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_212
+  - first:
+      213: 5279327990693907028
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_213
+  - first:
+      213: 4187343129207045561
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_214
+  - first:
+      213: 5152164971692025154
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_215
+  - first:
+      213: -7718581916061651396
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_216
+  - first:
+      213: 3560034621302734983
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_217
+  - first:
+      213: -8492939650860310745
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_218
+  - first:
+      213: 2257711613114916605
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_219
+  - first:
+      213: -1730964269042999980
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_220
+  - first:
+      213: 5176212429064994738
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_221
+  - first:
+      213: 4346832906623136410
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_222
+  - first:
+      213: -4354516729962197203
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_223
+  - first:
+      213: -2038362194715139202
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_224
+  - first:
+      213: -1590122999060355027
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_225
+  - first:
+      213: -7434507928073844846
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_226
+  - first:
+      213: 3037163048797159453
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_227
+  - first:
+      213: 5771984281412712732
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_228
+  - first:
+      213: -6447129960532160303
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_229
+  - first:
+      213: 8107160029177299787
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_230
+  - first:
+      213: 4659050537842129634
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_231
+  - first:
+      213: 3058086134892244701
+    second: Modern_Office_MV_1_TILESETS_B-C-D-E_232
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b01c234debbb460800000000000000
+      internalID: 7258605043031542597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc505939d9204bb0800000000000000
+      internalID: -4953913577161335590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a85521851ade50800000000000000
+      internalID: 6834799028909680828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2ebbe9f9ef5a50800000000000000
+      internalID: 6512180845812264317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8dfad12d8f86d0800000000000000
+      internalID: -2986012851375862680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a348831dbd2480800000000000000
+      internalID: -8922267395162921362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b62296a9b2092920800000000000000
+      internalID: 2965904825986983609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80f957bbf40ea50800000000000000
+      internalID: 6548321524747536598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a09780ece78230800000000000000
+      internalID: 3641139272843568892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d475b42adf2bd30800000000000000
+      internalID: 4445894655658642769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a36b4e8c8d00ce0800000000000000
+      internalID: -1440913523416352244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568bc1e1042bcb140800000000000000
+      internalID: 4736856896539768933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996c598f3d4f5850800000000000000
+      internalID: 6367893333407984020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2bf730b8bcc4080800000000000000
+      internalID: -9201756140705172753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e17175a2086210800000000000000
+      internalID: 1326312999856760039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741f05160899ad10800000000000000
+      internalID: 2137406650054546550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5805d231aff780800000000000000
+      internalID: -8647015519833531864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6aca3ed3d3f2040800000000000000
+      internalID: 4624982678354831043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39996080c2bf210800000000000000
+      internalID: 1367735324819166156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7db0ffedbf16b80800000000000000
+      internalID: -8403158494516357172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aaecf3b9824e750800000000000000
+      internalID: 6333231623245310469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60a94cd3e4e8e90800000000000000
+      internalID: -7021588741825624326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f43ffda07b71370800000000000000
+      internalID: 8293298496160878353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ecc434dc85fc690800000000000000
+      internalID: -7579742009220608364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830ba7b78c5f3ed0800000000000000
+      internalID: -2432123535785000061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54d8668298ff170800000000000000
+      internalID: 8214435051959305676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe5d24e8a631ec0800000000000000
+      internalID: -3597414518099678264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cae749339e911d0800000000000000
+      internalID: -3379413637620913082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df48d08f84659910800000000000000
+      internalID: 1843490189982846936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe98f4b2ef8b54d0800000000000000
+      internalID: -3144761710926586123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aac38cb022ce8f0800000000000000
+      internalID: -509995223800305016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904cc2d5c7282e70800000000000000
+      internalID: 9090559578445987985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd5de8194066c50800000000000000
+      internalID: 6658014122327006045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8670705ba8766a100800000000000000
+      internalID: 118896285612181352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396f1fda80088e90800000000000000
+      internalID: -7023363022435423950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e310577cf9b060800000000000000
+      internalID: 6969879487707343114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f25e80a6e633ea0800000000000000
+      internalID: -5894246085603020979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba316bae8a8ffb0800000000000000
+      internalID: -4613752092210517135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb8dfefb6f17530800000000000000
+      internalID: 3851130460601630392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9980129e1248d60800000000000000
+      internalID: 7891469732225259957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937f58d99fc16e20800000000000000
+      internalID: 3342180658152698783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4dc9e167947bbe0800000000000000
+      internalID: -1461618782389873494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3febfa1689b0e0800000000000000
+      internalID: -2253622688068191133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2708632713d8a90800000000000000
+      internalID: -7310132253542026541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38705675699e87290800000000000000
+      internalID: -7892301515046189181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fa7d241faee880800000000000000
+      internalID: -8579727738896977272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f97e541dfe44040800000000000000
+      internalID: 4631089998943723351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8d1172b6ca3b10800000000000000
+      internalID: 1962099057377513300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2a0419235adae0800000000000000
+      internalID: -1523814088016516295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac835dc7df4f33f0800000000000000
+      internalID: -918928010678924113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63be13752a3ca40800000000000000
+      internalID: 5387328074648598181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3a133921a62870800000000000000
+      internalID: 8657784531989445202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c4a3f994b45810800000000000000
+      internalID: 1753224728264623487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66689461790515aa0800000000000000
+      internalID: -6174065004304038298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67187381ed0d6d350800000000000000
+      internalID: 6041245602471706998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acdb7bb08b6e47b0800000000000000
+      internalID: -5238131115939865432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af6a7b4b3eccbb0800000000000000
+      internalID: -4914302728053261799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f035d1c8f8e1e4c0800000000000000
+      internalID: -4259867617414270734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068f44838ac293a0800000000000000
+      internalID: -6660038232718211579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928a52d14b92c6620800000000000000
+      internalID: 2768633724485871657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e069d6055deef2a0800000000000000
+      internalID: -6701658246037806875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0348927ec26395c0800000000000000
+      internalID: -4209912587835915507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b0ab6a3832e5480800000000000000
+      internalID: -8908643964547364045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f94e443078000d0800000000000000
+      internalID: -3458616065710055623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785afbd3f1303bb10800000000000000
+      internalID: 1995942492570101127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf950c1400d2660800000000000000
+      internalID: 7362541248220626015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf92707735cfc680800000000000000
+      internalID: -8732544310547669026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5862adc4baf0e7390800000000000000
+      internalID: -7818794674665412987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0d51a2e2fac2c0800000000000000
+      internalID: -4410445829872218294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f79caa2f2817e0800000000000000
+      internalID: -1794632591176370001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432d1e26054510c0800000000000000
+      internalID: -4605699151070682304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c12d18b7c239980800000000000000
+      internalID: -8533427959966327702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b6662b0d0d90430800000000000000
+      internalID: 3749757759527480122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b671d1634436ae200800000000000000
+      internalID: 210089477242951531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_74
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cd49cf35b768680800000000000000
+      internalID: -8753173225097864185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74201cf73038797e0800000000000000
+      internalID: -1758793078413393337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a922567a9de1a13b0800000000000000
+      internalID: -5541082471360814438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87908585cdfcc3090800000000000000
+      internalID: -8053333488363370120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eaa827d993aeed0800000000000000
+      internalID: -2384029704344916324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e26f0f77e950580800000000000000
+      internalID: -8861502453800620469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9b2fbe4ebf2690800000000000000
+      internalID: -7624666398690927416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3df72e266dcc3b70800000000000000
+      internalID: 8880198404012506430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03ce813c8ef16a0800000000000000
+      internalID: -6476201814501084957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4cba95da56448b0800000000000000
+      internalID: -5168894677106309910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88c6b6749f3e350800000000000000
+      internalID: 6044949210001606908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910a6775dfe61600800000000000000
+      internalID: 438801713825710493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f1db6ca200f530800000000000000
+      internalID: 3886609417987289950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f92adab487b5c30800000000000000
+      internalID: 4349202131587342137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_88
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e862c85bba3e00800000000000000
+      internalID: 1025337855073380045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_89
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa06a7f270eb2960800000000000000
+      internalID: 7578397582366739108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bccf5abf21f6280800000000000000
+      internalID: -9047992254333138073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_91
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef08865926cfd6d0800000000000000
+      internalID: -2963432148938780696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f78cc2b464764c0800000000000000
+      internalID: -4294386430986649810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff738d9fa77df50800000000000000
+      internalID: 6906123767088938928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6687492f71db920800000000000000
+      internalID: 3007586456793802457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee64fc981bf13a0800000000000000
+      internalID: -6692435315803099460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7475d81e414830800000000000000
+      internalID: 4053607008177519938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a827fba54753660800000000000000
+      internalID: 7364920698742147666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8537e8817f7e40800000000000000
+      internalID: 5656364489809169722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7db898ee75eff6b0800000000000000
+      internalID: -5260233506514485889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7a3ff6745c1dc0800000000000000
+      internalID: -3666963126521528640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5fe1336471ece80800000000000000
+      internalID: -8156556284848573018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59f28294c3376c0800000000000000
+      internalID: -4146904546973608513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb2e70ef8b0c790800000000000000
+      internalID: -7511800777260483831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5bcc13b118876f0800000000000000
+      internalID: -686656989374401033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eadee93a390a6e0800000000000000
+      internalID: -1828299117757092204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529323b2a4bc8940800000000000000
+      internalID: 5299809472391385682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_107
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd99ddf1b348ea0800000000000000
+      internalID: -5871503006136411133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa972688b93ee3d0800000000000000
+      internalID: -3175537222562112782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627eb12d9422af90800000000000000
+      internalID: -6943947418157288852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83a076d80429170800000000000000
+      internalID: 8183674448948902103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8290b55bee5674c20800000000000000
+      internalID: 3190630936934549800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7b1696ad5f2e4f0800000000000000
+      internalID: -800807465298839638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_113
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbe33b4d9db5110800000000000000
+      internalID: 1250832829088972656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a2a87fda7d9a750800000000000000
+      internalID: 6316817094546172419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2686367bfff7bc480800000000000000
+      internalID: -8877861504160667550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae5e8012e12b0d0800000000000000
+      internalID: -3408628840734004674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a7263ae22be310800000000000000
+      internalID: 1435279295573894161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ccafde7267f150800000000000000
+      internalID: 5906297733377737236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0452e7f3a260480800000000000000
+      internalID: -8933406358655123260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc95746372abc5f0800000000000000
+      internalID: -735315497654575930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb50a0361c4a8a30800000000000000
+      internalID: 4218267659174697935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101551c7afb3a6c50800000000000000
+      internalID: 6659200946030334209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5ef219f4ed5240800000000000000
+      internalID: 4782230137753983795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d22199983287f10800000000000000
+      internalID: 2267601486266641755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc4d2fac554b850800000000000000
+      internalID: 6391828101291363503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240c2e0e0b99cf3d0800000000000000
+      internalID: -3171491052609421246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_127
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393c817c4adb0220800000000000000
+      internalID: 2453294443890751805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_128
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1cb698fd879970800000000000000
+      internalID: 8761627698892905432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff76e2963368040800000000000000
+      internalID: 4649460192149766113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_130
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f12da5a24e9f10800000000000000
+      internalID: 2278331740837769660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3926eccf87d734e0800000000000000
+      internalID: -2001894496724965059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_132
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284e32b9bfc3cbe0800000000000000
+      internalID: -1458093457871583200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b96d637e86b8db20800000000000000
+      internalID: 3159475861538564535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_134
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a1d8abe26c55c0800000000000000
+      internalID: -4225393586091218615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad62eef09b8f9a0800000000000000
+      internalID: -6199001409004316049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee730d0f6fd84cb0800000000000000
+      internalID: -4879404528203235611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51dd962b2081b650800000000000000
+      internalID: 6246915080959414621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80690415fb4de85c0800000000000000
+      internalID: -4211194683377805816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a1d131b1433790800000000000000
+      internalID: -7551619920869351095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d71d302e62409b0800000000000000
+      internalID: -5114920524617515622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e2cc97efd42f30800000000000000
+      internalID: 4550007709411500191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_142
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ae06320572c9d10800000000000000
+      internalID: 2133623548611193463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9724f11277c95c0800000000000000
+      internalID: -4207356967728809498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_144
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96a799092d0c4b0800000000000000
+      internalID: -5422102432862017100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007c2b8dd79278ac0800000000000000
+      internalID: -3853065335708924160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_146
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6861421d547778e0800000000000000
+      internalID: -1695758791594645395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159f04eea15ae820800000000000000
+      internalID: 2948258717659796759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_148
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02290e28d09ced70800000000000000
+      internalID: 9073786607404392972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc933067e4e7d26a0800000000000000
+      internalID: -6472378214009062961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4200efa8de37e0800000000000000
+      internalID: -1783750152503014860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932d9806bbb642e0800000000000000
+      internalID: -2141818182265134185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f62b546efe5cd0800000000000000
+      internalID: -2567335030575139487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c235d8338c67100800000000000000
+      internalID: 105491765029710944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dcbe81e95145180800000000000000
+      internalID: -9127646776006030020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ea8a341fda5f40800000000000000
+      internalID: 5718127954874787714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7223dfb9b78ea590800000000000000
+      internalID: -7661036684253650307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb902deafde6d4f50800000000000000
+      internalID: 6867266913799637436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981a5184fde10230800000000000000
+      internalID: 3603422811271075989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628195faf7d2b560800000000000000
+      internalID: 7328157016546968174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_160
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba5e7c888d57f30800000000000000
+      internalID: 4572799078645476143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_161
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd49e5614e39910800000000000000
+      internalID: 1843067457251892564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566751bcaf095d420800000000000000
+      internalID: 2654186962228180581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_163
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c59a8c9c60e9fca0800000000000000
+      internalID: -5982503872897575483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc91f3c09ffe260800000000000000
+      internalID: 7129190566144364523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78c0e36b6e587a0800000000000000
+      internalID: -6375436027073624083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43860146723ce0b40800000000000000
+      internalID: 5408474776468482100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d615649081fc8fb0800000000000000
+      internalID: -4644071581178063144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001eec2e54dac31f0800000000000000
+      internalID: -1063784896296722176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51630e2c36e0afc80800000000000000
+      internalID: -8288296342587951595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_170
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec8691b30d25000800000000000000
+      internalID: 23309900338220682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_171
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d5741abe449830800000000000000
+      internalID: 4076970123791292850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_172
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b42c70c47438430800000000000000
+      internalID: 3783946503794608972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57150ecf9e06d77c0800000000000000
+      internalID: -4071991929986854539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_174
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc56f6bc3b15a9e0800000000000000
+      internalID: -1610851344133497674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_175
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345ddccbbfe9e5a0800000000000000
+      internalID: -6491393798002879436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_176
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77725e3ca12d2280800000000000000
+      internalID: -9066553451163256963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d583e893255f70800000000000000
+      internalID: 9175278955396453864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81669372e318600800000000000000
+      internalID: 468724174410881184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9e871ac5321660800000000000000
+      internalID: 7355000283544328731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc24659e8b78480800000000000000
+      internalID: -8896939226533016691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb329ab046b2aee0800000000000000
+      internalID: -1251237357331268641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_182
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a431fea8f0ac70800000000000000
+      internalID: 8980451087231525379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa62effaf9e4c870800000000000000
+      internalID: 8702337644230765224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e72280350aabfe0800000000000000
+      internalID: -1172448474497384812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4e9bbdbb0a7d800800000000000000
+      internalID: 637154601001936107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df695f96f62b3570800000000000000
+      internalID: 8447388366740746195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715950136433d130800000000000000
+      internalID: 3590270928025112946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e3201ef948d8d0800000000000000
+      internalID: -2821423811006306601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2167bac264afd0800000000000000
+      internalID: -2331630084271559723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04ea92b60cd1cf40800000000000000
+      internalID: 5747116520825873419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064dd962776f02c0800000000000000
+      internalID: -4463234964600830459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473e5e865e3ce3a0800000000000000
+      internalID: -6634859609546934453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e31b2b958d9de0800000000000000
+      internalID: -1324755813887908522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2e3a748d14bd90800000000000000
+      internalID: -7083003859123164323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c53d23c296d9d0800000000000000
+      internalID: -2749849155488331584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8896452bbce733a80800000000000000
+      internalID: -8488301459327915640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cdd2ffd1ad53f50800000000000000
+      internalID: 6860629429738920969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a4a7f0b7486d60800000000000000
+      internalID: 7883629973106630890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_199
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6356d61ec3fe50800000000000000
+      internalID: 6842038856386308740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_200
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49621f4b6fe38f830800000000000000
+      internalID: 4105100289666786964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3d21ae5144c9d20800000000000000
+      internalID: 3286576688985723861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_202
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5d589e93af23b60800000000000000
+      internalID: 7724511437531764161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19630b387ad673e30800000000000000
+      internalID: 4483172520306947729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_204
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310c5957788df2f0800000000000000
+      internalID: -937443101241507523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_205
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffd5d5aefa7cfc60800000000000000
+      internalID: 7853287084349841397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_206
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4361ac8fede3cf0800000000000000
+      internalID: -270533767471942466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968b161936c95100800000000000000
+      internalID: 97326815451514517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37c53c99b84efc0800000000000000
+      internalID: -3466492320644566099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf8350b25d65c40800000000000000
+      internalID: 5500818375627570040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_210
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a649bb4e6a2e3790800000000000000
+      internalID: -7548549272221170013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc7703e5ff7ca20800000000000000
+      internalID: 3082713249963559727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255945d28f488950800000000000000
+      internalID: 6451493889550931246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_213
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a461226d0f34940800000000000000
+      internalID: 5279327990693907028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfe09f36e6c1a30800000000000000
+      internalID: 4187343129207045561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_215
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e9e19eba208740800000000000000
+      internalID: 5152164971692025154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_216
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e246364a612e490800000000000000
+      internalID: -7718581916061651396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_217
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78087de40a8c76130800000000000000
+      internalID: 3560034621302734983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_218
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f14a39264032a80800000000000000
+      internalID: -8492939650860310745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_219
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1df010c0055f10800000000000000
+      internalID: 2257711613114916605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_220
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5cc81b216af7e0800000000000000
+      internalID: -1730964269042999980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_221
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf716c87c995d740800000000000000
+      internalID: 5176212429064994738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9230418f7d035c30800000000000000
+      internalID: 4346832906623136410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8b16fa16a193c0800000000000000
+      internalID: -4354516729962197203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_224
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732b64326846b3e0800000000000000
+      internalID: -2038362194715139202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2824d3ae8fbee9e0800000000000000
+      internalID: -1590122999060355027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297455bdd6253d890800000000000000
+      internalID: -7434507928073844846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_227
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d104f7883bb262a20800000000000000
+      internalID: 3037163048797159453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_228
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193eb66f153a1050800000000000000
+      internalID: 5771984281412712732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_229
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0d3b195713786a0800000000000000
+      internalID: -6447129960532160303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_230
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cb5cc71b628070800000000000000
+      internalID: 8107160029177299787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_231
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea3caa87c548a040800000000000000
+      internalID: 4659050537842129634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Office_MV_1_TILESETS_B-C-D-E_232
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeacc22321807a20800000000000000
+      internalID: 3058086134892244701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
